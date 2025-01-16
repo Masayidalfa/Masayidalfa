@@ -1,4 +1,3 @@
-
 # Muhamad Masayid Alfarizqi
 
 🤖 I am currently focusing on deepening my knowledge in cyber security.
